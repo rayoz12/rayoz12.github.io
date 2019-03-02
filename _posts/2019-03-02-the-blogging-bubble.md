@@ -1,6 +1,9 @@
 ---
-layout: post
 title:  "The Blogging Bubble"
+categories: [blog]
+tags: [blog, learning]
+excerpt: "The first of one of many blog posts
+that I want to write and it's my first post in the strange and mystrious bubble known as blogging."
 ---
 
 # Hi There
